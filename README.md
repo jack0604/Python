@@ -1,2 +1,2 @@
 # Python
-Questii sono file python creati dame stesso 
+Questii sono file python creati da me stesso
